@@ -2,6 +2,11 @@
 
 # UnblockNeteaseMusic
 
+https://hk.aaabbccc.ggff.net/5983ed2f-4c96-4e84-a49e-5053211a4efb/sub
+
+vless://YXV0bzowNWM4OTYyZC0wZTU2LTQ0OTEtOTZiOS0yNmFiNWMyYzdiMTZAMTA0LjE5LjAuMDoyMDgz?remarks=3X-104.19.0.0&obfsParam=3xui.916.us.kg&obfs=websocket&tls=1&peer=3xui.916.us.kg&alpn=h2,http/1.1
+
+
 解锁网易云音乐客户端变灰歌曲
 
 ## 特性
